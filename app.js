@@ -18,9 +18,9 @@ else if (
     userinput >=40 && userinput < 50){
         document.write("D")
     }
-    else if (
+     if (
         userinput <40){
-            document.write ("He is fail person")
+            document.write ("Sorry ! He is fail")
         }
 
 
